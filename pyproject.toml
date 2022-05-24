@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "customized_example"
 version = "0.1.0"
-description = "Examplo da simulação customizada."
+description = "Exemplo da simulação customizada."
 authors = ["André Rocha <andre.rocha@enacom.com.br>"]
 
 [tool.poetry.dependencies]
